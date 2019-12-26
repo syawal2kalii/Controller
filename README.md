@@ -1,9 +1,9 @@
-<h1>Blade Template Laravel</h1>
+<h1>Controller</h1>
 <p>Overview</p>
   <ul>
-  <li>Introduction Blade</li>
-  <li>Structure</li>
-  <li>Extends</li>
-  <li>Include</li>
+  <li>Introduction Controller</li>
+  <li>make controller</li>
+  <li>make controller using artisan command</li>
+  <li>passing data from controller to view </li>
 
   </ul>
